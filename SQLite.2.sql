@@ -1,3 +1,4 @@
+--I created the 'Startups" table to with mock information on various companies to make use of the aggregate functions & the correct sequence of commands.
 SELECT *
 FROM startups;
 
